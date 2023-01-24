@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.for-lorem p{
+max-width: 300px;
+min-width: 200px;
+max-height: 200px;
+background-color: brown;
+overflow: auto;
+font-style: italic;
+font-weight: 600;
+}
+
+.for-images{
+    max-width: 100%;
+    min-width: 100px;
+    overflow: hidden;
+}
